@@ -1,0 +1,8 @@
+[{
+    "BROWSER_NAME": "chrome",
+    "TARGET_URL": "https://store.steampowered.com",
+    "DRIVER_PATH": "./src/test/resources/",
+    "TIMEOUT_IMPLICITLY" : "10",
+    "LANGUAGE" : "en",
+    "DOWNLOAD_PATH" : "C:\\Users\\admin\\Downloads"
+}]
